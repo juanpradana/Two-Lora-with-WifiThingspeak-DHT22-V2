@@ -7,6 +7,12 @@ This Repository is other methode and more efficient code write.
 
 ![DHT22](https://components101.com/sites/default/files/components/DHT22-Sensor.jpg)
 
+# Requirement
+You need install library:
+- Wifi.h
+- ThingSpeak.h
+- time.h
+
 # Wiring
 ## LoRa
 ESP32 >>  Lora e32-433t30d
