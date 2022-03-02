@@ -38,3 +38,8 @@ slave0 is identified as User#1 and slave1 i identified as User#2, data sended to
 CountOut is used for counting failed queue data from station, when countOut is 3 so queue will change to other station (station 1 to station 0). CountOut 0 for slave0 and countOut 1 for slave1.
 
 Time delay set to 20 seconds cause free ThingSpeak just can received new data for every 15 seconds.
+
+# ThingSpeak Channel
+![image](https://user-images.githubusercontent.com/30497994/156348150-6f258c90-9bb3-4539-b5f4-2b907db0f152.png)
+
+https://thingspeak.com/channels/1640665
